@@ -1,4 +1,5 @@
 # AnkieteX
+This project was developed as part of a university course by a small student group.
 
 AnkieteX is a fun application that allows you to create surveys. Below are the instructions for installing and running the project.
 
@@ -15,12 +16,12 @@ AnkieteX is a fun application that allows you to create surveys. Below are the i
 
 1. **Clone the repository**
     ```bash
-    git clone https://gitlab.com/MateuszGarbina/ankietex.git
+    git clone https://github.com/xFoReXx/SurveyApp.git
     ```
 
 2. **Navigate to the project directory**
     ```bash
-    cd ankietex
+    cd SurveyApp
     ```
 
 3. **Configure the `.env.local` file**  
